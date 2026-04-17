@@ -1,6 +1,6 @@
 # HR Workforce Insights & Employee Attrition Predictor
 
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](<Screenshot 2026-04-17 170611.png>)
 
 ## 📌 Project Overview
 Employee attrition is a significant cost multiplier for modern organizations. This project serves as an end-to-end Business Intelligence solution that not only visualizes historical HR metrics but also integrates a **Machine Learning predictive model** to proactively identify flight-risk employees before they leave.
